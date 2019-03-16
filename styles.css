@@ -191,6 +191,12 @@ a.social:hover {
   transition: all .5s;
 }
 
+.location-2 {
+  background-color: #222;
+  color: yellow;
+  padding: 1.25rem;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
